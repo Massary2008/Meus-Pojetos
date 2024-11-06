@@ -8,7 +8,7 @@
     --dark3: #677c6a; /* Cor clara (pode alterar para contraste) */
     --dark4: #e9e0ba; /* Alternativa de cor clara */
     --dark5: #3a5340; /* Cor de destaque */
-    --cyan1: #e9e0ba; /* Outra cor de destaque */
+    --cyan1: #c9c3a9; /* Outra cor de destaque */
 }
 /* Resetando margens e preenchimentos padrão */
 * {
@@ -43,7 +43,7 @@ header {
     gap: 1rem;
     flex-wrap: wrap;
     padding: 0.8rem;
-    background-color: #eee2d0;
+    background-color: #c7bdae;
     min-height: 50px;
 }
 /* Imagem do logo no cabeçalho */
